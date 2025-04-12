@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rebeccahess22
-- 👀 I’m interested in data analysis, engineering, and science. 
-- 🌱 I’m currently learning R programming but would like to refresh on Stata programming. I am interested in improving my technical skills and starting up a portfolio.
-- 💞️ I’m looking to collaborate on anything related to data science or data analytics. 
+- 👀 I’m interested in data analysis, data engineering, and data science. 
+- 🌱 I am currently brushing up my relational database skills using freeCodeCamp. Projects completed are available for viewing below. :)
 - 📫 How to reach me: email is hessrebecca4@gmail.com. 
 
 <!---
