@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rebeccahess22
 - 👀 I’m interested in data analysis, data engineering, and data science. 
 - 🌱 I am currently brushing up my data analysis skills. Projects completed are available for viewing below. :)
+- Tableau Public profile <a href="[url](https://public.tableau.com/app/profile/rebecca.jo.hess/vizzes)">Rebecca's Viz's</a>
 - 📫 How to reach me: email is hessrebecca4@gmail.com. 
 
 <!---
