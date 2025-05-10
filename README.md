@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rebeccahess22
+👋 Hi, welcome to my GitHub. My name is **Rebecca Hess**  I am an analyst. I enjoy programming and learning new things. I am building my repository to exemplify my skills. 
+
 - 👀 I’m interested in data analysis and data science. 
 - 🌱 I am currently brushing up on my data analysis skills. Projects completed are available for viewing below. :)
 
