@@ -1,3 +1,4 @@
+<h1 style="text-decoration: underline;">Welcome!</h1>
 👋 Hi, welcome to my GitHub. My name is **Rebecca Hess**  I am an analyst. I enjoy programming and learning new things. I am building my repository to exemplify my skills. 
 
 - 👀 I’m interested in data analysis and data science. 
@@ -11,7 +12,7 @@
 - 📫 How to reach me: email is hessrebecca4@gmail.com.
 
   
-<h3 style="text-decoration: underline;">Table of Contents</h3>
+<h2 style="text-decoration: underline;">Table of Contents</h2>
 
 #### SQL: 
 - <a href="https://github.com/rebeccahess22/Celestial-Bodies-Project1">Celestial Bodies Database</a>
