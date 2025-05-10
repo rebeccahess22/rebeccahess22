@@ -20,6 +20,8 @@
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5
 
+- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/NY-airbnb-analysis
+- Citibike Analysis
 #### SQL: 
 - https://github.com/rebeccahess22/Celestial-Bodies-Project1
 - https://github.com/rebeccahess22/World-Cup-Project2
