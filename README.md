@@ -13,15 +13,6 @@
   
 <h3 style="text-decoration: underline;">Table of Contents</h3>
 
-#### Data Analysis Projects
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project1">Mean-Variance-Standard Deviation Calculator</a>
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project2">Demographic Data Analyzer</a>
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project3">Medical Data Analyzer</a>
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4">Page View Time Series Visualizer</a>
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5">Sea Level Predictor</a>
-
-- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/NY-airbnb-analysis">NY Airbnb Analysis</a>
-- Citibike Analysis
 #### SQL: 
 - <a href="https://github.com/rebeccahess22/Celestial-Bodies-Project1">Celestial Bodies Database</a>
 - <a href="https://github.com/rebeccahess22/World-Cup-Project2">World Cup Database</a>
@@ -30,11 +21,22 @@
 - <a href="https://github.com/rebeccahess22/Number-Guess-Project5">Number Guessing Game</a>
 
 #### Programming with Python: 
-- https://github.com/rebeccahess22/arithmetic-arranger-Project1
-- https://github.com/rebeccahess22/add-time-Project2
-- https://github.com/rebeccahess22/budget-app-Project3
-- https://github.com/rebeccahess22/polygon-area-calculator-Project4
-- https://github.com/rebeccahess22/probability-calculator-Project5
+- <a href="https://github.com/rebeccahess22/arithmetic-arranger-Project1">Arithmetic Arranger</a>
+- <a href="https://github.com/rebeccahess22/add-time-Project2">Add Time Program</a>
+- <a href="https://github.com/rebeccahess22/budget-app-Project3">Budget App</a>
+- <a href="https://github.com/rebeccahess22/polygon-area-calculator-Project4">Polygon Area Calculator Program</a>
+- <a href="https://github.com/rebeccahess22/probability-calculator-Project5">Probability Calculator Program</a>
+
+#### Data Analysis Projects
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project1">Mean-Variance-Standard Deviation Calculator</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project2">Demographic Data Analyzer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project3">Medical Data Analyzer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4">Page View Time Series Visualizer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5">Sea Level Predictor</a>
+
+#### End to End Projects
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/NY-airbnb-analysis">NY Airbnb Analysis</a>
+- <a href="https://github.com/rebeccahess22/citibike">Citibike Analysis</a>
 
 <!---
 rebeccahess22/rebeccahess22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
