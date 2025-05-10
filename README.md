@@ -6,6 +6,7 @@
 
 - Tableau Public profile: <a href="https://public.tableau.com/app/profile/rebecca.jo.hess/vizzes">Rebecca's Viz's</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rebecca-hess-293391174/">Rebecca's LinkedIn</a>
+- Resume: <a href="/Users/rebeccahess/Desktop/Hess_Rebecca_Resume_052025_2.pdf" target="_blank">Resume</a>
 - 📫 How to reach me: email is hessrebecca4@gmail.com. 
 
 <!---
