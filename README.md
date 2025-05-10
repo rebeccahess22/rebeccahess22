@@ -14,20 +14,20 @@
 <h3 style="text-decoration: underline;">Table of Contents</h3>
 
 #### Data Analysis Projects
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project1 
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project2
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project3
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project1">Mean-Variance-Standard Deviation Calculator</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project2">Demographic Data Analyzer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project3">Medical Data Analyzer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4">Page View Time Series Visualizer</a>
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5">Sea Level Predictor</a>
 
-- https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/NY-airbnb-analysis
+- <a href="https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/NY-airbnb-analysis">NY Airbnb Analysis</a>
 - Citibike Analysis
 #### SQL: 
-- https://github.com/rebeccahess22/Celestial-Bodies-Project1
-- https://github.com/rebeccahess22/World-Cup-Project2
-- https://github.com/rebeccahess22/Salon-Project3 
-- https://github.com/rebeccahess22/Periodic-Table-Project4
-- https://github.com/rebeccahess22/Number-Guess-Project5
+- <a href="https://github.com/rebeccahess22/Celestial-Bodies-Project1">Celestial Bodies Database</a>
+- <a href="https://github.com/rebeccahess22/World-Cup-Project2">World Cup Database</a>
+- <a href="https://github.com/rebeccahess22/Salon-Project3">Salon Database</a>
+- <a href="https://github.com/rebeccahess22/Periodic-Table-Project4">Periodic Table Database</a> 
+- <a href="https://github.com/rebeccahess22/Number-Guess-Project5">Number Guessing Game</a>
 
 #### Programming with Python: 
 - https://github.com/rebeccahess22/arithmetic-arranger-Project1
