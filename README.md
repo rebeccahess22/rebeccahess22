@@ -20,9 +20,9 @@ https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/P
 https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5
 
 ## SQL: 
-https://github.com/rebeccahess22/Celestial-Bodies-Project1
+https://github.com/rebeccahess22/Celestial-Bodies-Project1 \n 
 https://github.com/rebeccahess22/World-Cup-Project2
-https://github.com/rebeccahess22/Salon-Project3
+https://github.com/rebeccahess22/Salon-Project3 
 https://github.com/rebeccahess22/Periodic-Table-Project4
 https://github.com/rebeccahess22/Number-Guess-Project5
 
