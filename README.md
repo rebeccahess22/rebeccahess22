@@ -11,23 +11,23 @@
 - 📫 How to reach me: email is hessrebecca4@gmail.com.
 
   
-<h2 style="text-decoration: underline;">Table of Contents</h2>
+<h3 style="text-decoration: underline;">Table of Contents</h3>
 
-## Data Analysis Projects
+#### Data Analysis Projects
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project1 
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project2
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project3
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project4
 - https://github.com/rebeccahess22/Data-Analysis-Projects/tree/main/freeCodeCamp/Project5
 
-## SQL: 
+#### SQL: 
 - https://github.com/rebeccahess22/Celestial-Bodies-Project1
 - https://github.com/rebeccahess22/World-Cup-Project2
 - https://github.com/rebeccahess22/Salon-Project3 
 - https://github.com/rebeccahess22/Periodic-Table-Project4
 - https://github.com/rebeccahess22/Number-Guess-Project5
 
-## Programming with Python: 
+#### Programming with Python: 
 - https://github.com/rebeccahess22/arithmetic-arranger-Project1
 - https://github.com/rebeccahess22/add-time-Project2
 - https://github.com/rebeccahess22/budget-app-Project3
