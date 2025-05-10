@@ -13,9 +13,9 @@
 <h2 style="text-decoration: underline;">Table of Contents</h2>
 
 ## Data Analysis Projects
-- Houses projects written in Python for data analysis and a folder for Tableau dashboards.
+Houses projects written in Python for data analysis and a folder for Tableau dashboards.
   ### Python Data Analysis Projects:
-    - Projects completed with freeCodeCampl
+    - Projects completed with freeCodeCamp
     - Projects completed on my own:
       - NY-airbnb
       - Citibike
