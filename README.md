@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, data engineering, and data science. 
 - 🌱 I am currently brushing up on my data analysis skills. Projects completed are available for viewing below. :)
 
-<h2 style="text-decoration: underline;">Helpful Links</h2>:
+<h2 style="text-decoration: underline;">Helpful Links</h2>
 
 - Tableau Public profile: <a href="https://public.tableau.com/app/profile/rebecca.jo.hess/vizzes">Rebecca's Viz's</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rebecca-hess-293391174/">Rebecca's LinkedIn</a>
