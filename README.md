@@ -9,7 +9,7 @@
 
 - Tableau Public profile: <a href="https://public.tableau.com/app/profile/rebecca.jo.hess/vizzes">Rebecca's Viz's</a>
 - <a href="https://www.linkedin.com/in/rebecca-hess-293391174/">Rebecca's LinkedIn</a>
-- <a href="[https://docs.google.com/document/d/1igPRg9dT7tB9sGB358Yds9Rp041M0_DH/edit?usp=drive_link&ouid=106111808802892379304&rtpof=true&sd=true](https://docs.google.com/document/d/e/2PACX-1vQBWZabYwfWkmhIG6YHeapC7OzPDOgMlRO4mVQnJOu7Cb8r98TZXzSt9Am4Av6Dbg/pub)">Resume</a>
+- <a href="https://docs.google.com/document/d/1igPRg9dT7tB9sGB358Yds9Rp041M0_DH/edit?usp=drive_link&ouid=106111808802892379304&rtpof=true&sd=true">Resume</a>
 - 📫 How to reach me: email is hessrebecca4@gmail.com.
 
   
